@@ -1,0 +1,34 @@
+body {
+	padding: 30px;
+
+}
+
+.container {
+	width: 800px;
+	height: 500px;
+	border: 1px solid black;
+
+}
+
+
+.inner-one {
+	width: 400px;
+	height: 200px;
+	background-color: green;
+}
+
+.inner-two {
+   background-color: blue;
+}
+
+.inner-three {
+	background-color: gray;
+}
+
+.inner-four {
+	background-color: black;
+}
+
+.inner-five {
+	background-color: orange;
+}
