@@ -1,16 +1,26 @@
 body {
 	padding: 30px;
+	font-size: 0px;
+
+}
+
+.container-parent {
+    width: 800px;
+    height: 500px;
+   border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
 
 }
 
 .container {
-    width: 800px;
-    height: 500px;
-    font-size: 0px;
 	border: 1px solid black;
-	margin-left: auto;
-	margin-right: auto;
+	display: inline-block;
+}
 
+.container_half {
+	width: 50%;
+	height: 200px;
 }
 
 
@@ -20,7 +30,7 @@ body {
 
 .blue {
    background-color: blue;
-   }
+ }ß
 
 .gray {
 	background-color: gray;
