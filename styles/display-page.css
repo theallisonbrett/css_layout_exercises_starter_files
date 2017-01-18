@@ -16,12 +16,14 @@ body {
 .box-half {
   width: 50%;
   height: 200px;
+  border: 1px solid black;
   display: inline-block;
 
 }
   .box-third {
   	width: 33.33%;
 	height: 300px;
+	border: 1px solid black;
 	display: inline-block;
   }
 
