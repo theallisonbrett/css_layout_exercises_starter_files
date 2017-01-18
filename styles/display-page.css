@@ -17,6 +17,7 @@ body {
   width: 50%;
   height: 200px;
   display: inline-block;
+
 }
 
 .green {
@@ -29,12 +30,22 @@ body {
 
 .gray {
 	background-color: gray;
+	width: 33.33%;
+	height: 300px;
+	display: inline-block;
+
 }
 
 .black {
 	background-color: black;
+    width: 33.33%;
+	height: 300px;
+	display: inline-block;
 }
 
 .orange {
 	background-color: orange;
+	width: 33.33%;
+	height: 300px;
+	display: inline-block;
 }
