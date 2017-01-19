@@ -11,6 +11,8 @@ body {
 nav {
 	height: 60px;
 	background-color: gray;
+	position: fixed;
+    width: 100%;
 
 }
 
