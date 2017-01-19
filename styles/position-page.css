@@ -47,7 +47,9 @@ nav li {
 }
 
 .spacedog {
-	position: absolute;
+	position: relative;
 	width: 200px;
 	height: 200px;
+	left: 250px;
+	top: 200px;
 }
