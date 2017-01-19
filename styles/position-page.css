@@ -2,10 +2,10 @@ body {
   background: url(../images/outerspace_landscape.jpeg) no-repeat;
   background-size: cover;
 }
+
 .container {
 	padding-left: : 60px;
 	padding-right: 60px;
-	
 }
 
 nav {
@@ -44,6 +44,12 @@ nav a:hover {
   color: black;
 }
 
+main {
+	padding-top: 90px;
+	min-width: 1000px;
+}
+
+
 .box {
 	width: 600px;
 	height: 300px;
@@ -53,18 +59,17 @@ nav a:hover {
 	margin-top: 150px;
 }
 
-.spacecat {
+.spacecat, .spacedog {
 	position: relative;
 	width: 200px;
-	height: 200px;
-	right: 100px;
+}
+
+.spacecat {
+    right: 100px;
 	bottom: 100px;
 }
 
 .spacedog {
-	position: relative;
-	width: 200px;
-	height: 200px;
-	left: 250px;
+    left: 250px;
 	top: 200px;
 }
