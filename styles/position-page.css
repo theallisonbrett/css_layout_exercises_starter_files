@@ -28,7 +28,7 @@ nav li {
 	display: inline-block;
 }
 
-div {
+.box {
 	width: 600px;
 	height: 300px;
 	border: 10px green dotted;
@@ -37,3 +37,17 @@ div {
 	margin-top: 150px;
 }
 
+.spacecat {
+	position: relative;
+	width: 200px;
+	height: 200px;
+	right: 100px;
+	bottom: 100px;
+
+}
+
+.spacedog {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+}
