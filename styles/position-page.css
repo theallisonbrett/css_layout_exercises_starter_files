@@ -32,6 +32,16 @@ nav li {
 	display: inline-block;
 }
 
+nav li::after {
+	content: "|";
+	margin-left: 5px;
+
+}
+
+nav a:hover {
+  color: black;
+}
+
 .box {
 	width: 600px;
 	height: 300px;
@@ -47,7 +57,6 @@ nav li {
 	height: 200px;
 	right: 100px;
 	bottom: 100px;
-
 }
 
 .spacedog {
