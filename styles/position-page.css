@@ -27,3 +27,12 @@ nav ul {
 nav li {
 	display: inline-block;
 }
+
+div {
+	width: 600px;
+	height: 300px;
+	border: 10px green dotted;
+	margin-left: auto;
+	margin-right: auto
+	margin-top: 100px;
+}
