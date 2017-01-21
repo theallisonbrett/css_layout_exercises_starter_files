@@ -12,9 +12,9 @@ main {
 }
 
 .nebula1 {
-	float: right;
+	float: left;
 }
 
 .nebula2 {
-	float: left;
+	float: right;
 }
